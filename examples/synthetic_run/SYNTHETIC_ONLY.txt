@@ -1,0 +1,1 @@
+All results in this folder come from generated synthetic traffic. They are software demonstrations, not benchmark or campus results.
